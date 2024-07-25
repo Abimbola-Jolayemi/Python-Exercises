@@ -1,0 +1,1 @@
+#There is little or no possible consequence of not adding an else statement, since the randrange function is set to generate integers from 1 to less than 7 (6).
