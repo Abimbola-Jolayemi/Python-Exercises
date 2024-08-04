@@ -1,4 +1,4 @@
-def addUpDigits(number):
+def add_up_digits(number):
 	total = 0
 	while number > 0:
 		digit = number % 10
@@ -6,4 +6,4 @@ def addUpDigits(number):
 		number = number // 10
 	return total
 		
-print(addUpDigits(932))
+print(add_up_digits(932))
