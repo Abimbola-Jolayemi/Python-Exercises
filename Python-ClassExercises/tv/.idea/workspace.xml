@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4458c0f5-b79c-40eb-8522-20070771a9fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/television.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/tv_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tv.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2mvJqSZVa5Z9SnE46a61AAPQFuT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for tvTest.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tvTest.MyTestCase.test_that_television_is_can_be_turned_on.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tvTest.MyTestCase.test_that_television_is_off.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_channel_cannot_an_alphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_can_be_turned_off_after_turning_on.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_can_return_to_its_previous_channel_after_turning_on.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_channel_can_be_decreased.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_channel_can_be_increased.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_channel_can_be_set.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_channel_can_be_set_to_a_negative_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_channel_can_only_be_changed_when_television_is_on.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_channel_cannot_be_decreased_below_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_channel_cannot_be_increased_above_100.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_channel_cannot_be_set_to_above_100.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_default_channel_is_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_default_is_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_default_volume_is_0_when_tv_is_on.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_exists.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_is_can_be_turned_on.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_is_off.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_is_off_by.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_is_off_by_default.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_is_on_and_volume_can_be_increased.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_is_on_and_volume_cannot_be_increased_above_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_is_on_and_volume_cannot_be_set_to_a_value_above_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_is_on_and_volume_cannot_be_set_to_a_value_below_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_volume_can_be_muted_and_volume_becomes_zero.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_volume_can_be_unmuted_and_volume_returns_to_previous_volume.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_television_volume_returns_to_zero_after_turning_off.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_tv_is_on_and_can_be_decreased.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_tv_is_on_and_cannot_be_decreased_below_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tv_test.MyTestCase.test_that_tv_is_on_and_volume_can_be_changed.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in tvTest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in tv_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tv.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="television" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tv_test.MyTestCase.test_that_television_can_return_to_its_previous_channel_after_turning_on" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="television" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tv_test.MyTestCase.test_that_television_can_return_to_its_previous_channel_after_turning_on&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tv_test.MyTestCase.test_that_television_is_off_by_default" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="television" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tv_test.MyTestCase.test_that_television_is_off_by_default&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tv_test.MyTestCase.test_that_television_volume_can_be_muted_and_volume_becomes_zero" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="television" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tv_test.MyTestCase.test_that_television_volume_can_be_muted_and_volume_becomes_zero&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tv_test.MyTestCase.test_that_television_volume_can_be_unmuted_and_volume_returns_to_previous_volume" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="television" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tv_test.MyTestCase.test_that_television_volume_can_be_unmuted_and_volume_returns_to_previous_volume&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tv_test.MyTestCase.test_that_television_volume_returns_to_zero_after_turning_off" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="television" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tv_test.MyTestCase.test_that_television_volume_returns_to_zero_after_turning_off&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for tv_test.MyTestCase.test_that_television_volume_can_be_unmuted_and_volume_returns_to_previous_volume" />
+        <item itemvalue="Python tests.Python tests for tv_test.MyTestCase.test_that_television_volume_can_be_muted_and_volume_becomes_zero" />
+        <item itemvalue="Python tests.Python tests for tv_test.MyTestCase.test_that_television_volume_returns_to_zero_after_turning_off" />
+        <item itemvalue="Python tests.Python tests for tv_test.MyTestCase.test_that_television_can_return_to_its_previous_channel_after_turning_on" />
+        <item itemvalue="Python tests.Python tests for tv_test.MyTestCase.test_that_television_is_off_by_default" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4458c0f5-b79c-40eb-8522-20070771a9fc" name="Changes" comment="" />
+      <created>1727951306982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727951306982</updated>
+      <workItem from="1727951323526" duration="12710000" />
+      <workItem from="1728192524221" duration="7115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/tv_test.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/tv_test.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/television$tv.coverage" NAME="tv Coverage Results" MODIFIED="1728198929079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/television$.coverage" NAME=" Coverage Results" MODIFIED="1728201425654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/television$main.coverage" NAME="main Coverage Results" MODIFIED="1727951639550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
